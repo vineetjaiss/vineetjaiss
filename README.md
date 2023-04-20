@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vineet Jaiswara</h1>
 <h3 align="center">A passionate full stack developer from India who is also interested in Artificial Intelligence and Machine Learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetjaiss&label=Profile%20views&color=0e75b6&style=flat" alt="vineetjaiss" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vineetjaiss" alt="vineetjaiss" /></a> </p>
 
 - I'm currently a student **pursuing CSE(AIML)**
 
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vineetjaiss&show_icons=true&locale=en" alt="vineetjaiss" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vineetjaiss&" alt="vineetjaiss" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vineetjaiss&theme=highcontrast" alt="vineetjaiss" /></p>
