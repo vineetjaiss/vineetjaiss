@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vineet Jaiswara</h1>
 <h3 align="center">A passionate full stack developer from India who is also interested in Artificial Intelligence and Machine Learning.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vineetjaiss" alt="vineetjaiss" /></a> </p>
-
 - I'm currently a student **pursuing CSE(AIML)**
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
