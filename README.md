@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vineet Jaiswara</h1>
 ![code](https://user-images.githubusercontent.com/118113801/233443097-f9b68d03-1a43-4a60-8526-6abfd533fe1c.gif)
+<h1 align="center">Hi 👋, I'm Vineet Jaiswara</h1>
 <h3 align="center">A passionate full stack developer from India who is also interested in Artificial Intelligence and Machine Learning.</h3>
 
 - I'm currently a student **pursuing CSE(AIML)**
