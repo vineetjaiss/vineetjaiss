@@ -12,6 +12,7 @@
 
 - ⚡ Fun fact **I am crazy about football**
 -   [![Stats](https://github-readme-stats.vercel.app/api?username=vineetjaiss&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=vineetjaiss&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/vineetjaiss/vineetjaiss/blob/master/assets/saved.gif" width="195">
+-   [![GitHub Streak](https://streak-stats.demolab.com/?user=vineetjaiss1&theme=dark)](https://git.io/streak-stats)
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=vineetjaiss&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=vineetjaiss&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
