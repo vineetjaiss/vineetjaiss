@@ -1,6 +1,5 @@
 ![code](https://user-images.githubusercontent.com/118113801/233443097-f9b68d03-1a43-4a60-8526-6abfd533fe1c.gif)
 <h1 align="center">Hi 👋, I'm Vineet Jaiswara</h1>
-# 💫 About Me:
 1. I am currently a student pursuing BTech in CSE(AIML).<br>2. Learning and creating projects on Artificial intelligence and Machine learning.<br>3. Contributed in open-source on various platforms.<br>4. Competitive Coding: CodeChef, CodeForces, LeetCode, CodeWars.<br>5. I am passionate about Football (Can't miss a game).
 
 
