@@ -18,7 +18,9 @@ Technical Writing:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineetjaiss&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
  
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vinjai) 
+ 
+ 
+ [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vinjai) 
 
 
 ---
