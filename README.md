@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Vineet Jaiswara</h1>
-
 1. I am currently a student pursuing BTech in CSE(AIML).<br>2. Learning and creating projects on Artificial intelligence and Machine learning.<br>3. Contributed in open-source on various platforms.<br>4. Competitive Coding: CodeChef, CodeForces, LeetCode, CodeWars.<br>5. I am passionate about Football (Can't miss a game).
 
 
