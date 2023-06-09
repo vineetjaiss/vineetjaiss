@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer | AI & ML
 ------------------------------
 
-1\. I am currently a student pursuing BTech in CSE(AIML). 2. Learning and creating projects on Artificial intelligence and Machine learning. 3. Contributing in open-source on various platforms. 4. Competitive Coding: CodeChef, CodeForces, LeetCode, CodeWars. 5. Living playing ⚽ & ♟️
+1. I am currently a student pursuing BTech in CSE(AIML).
+2. Learning and creating projects on Artificial intelligence and Machine learning. 
+3. Contributing in open-source on various platforms. 
+4. Competitive Coding: CodeChef, CodeForces, LeetCode, CodeWars.
+5. Living playing ⚽ & ♟️
 
 * ✉️  You can contact me at [vineetjaiswara@gmail.com](mailto:vineetjaiswara@gmail.com)
 * 🚀  I'm currently working on [CogShre](https://github.com/vineetjaiss/CogShre)
