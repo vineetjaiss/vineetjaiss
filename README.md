@@ -16,8 +16,6 @@ Full Stack Developer | AI & ML
 * 🤝  I'm open to collaborating on Interesting projects.
 * ⚡  Changing 0 to 1
 
-<a href="https://www.github.com/vineetjaiss" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/vineetjaiss?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
