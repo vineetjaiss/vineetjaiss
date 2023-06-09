@@ -7,7 +7,7 @@ Full Stack Developer | AI & ML
 1\. I am currently a student pursuing BTech in CSE(AIML). 2. Learning and creating projects on Artificial intelligence and Machine learning. 3. Contributing in open-source on various platforms. 4. Competitive Coding: CodeChef, CodeForces, LeetCode, CodeWars. 5. Living playing ⚽ & ♟️
 
 * ✉️  You can contact me at [vineetjaiswara@gmail.com](mailto:vineetjaiswara@gmail.com)
-* 🚀  I'm currently working on [CogShre](http://https://github.com/vineetjaiss/CogShre)
+* 🚀  I'm currently working on [CogShre](https://github.com/vineetjaiss/CogShre)
 * 🧠  I'm learning MLOps
 * 🤝  I'm open to collaborating on Interesting projects.
 * ⚡  Changing 0 to 1
