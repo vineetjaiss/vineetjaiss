@@ -49,6 +49,8 @@ Full Stack Developer | AI & ML
 
 <a href="http://www.github.com/vineetjaiss"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vineetjaiss&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+[![An image of @vineetjaiss's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vineetjaiss)](https://holopin.io/@vineetjaiss)
+
 [![](https://visitcount.itsvg.in/api?id=vineetjaiss&icon=0&color=0)](https://visitcount.itsvg.in)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
