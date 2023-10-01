@@ -11,7 +11,7 @@ Full Stack Developer | AI & ML
 5. Living playing ⚽ & ♟️
 
 * ✉️  You can contact me at [vineetjaiswara@gmail.com](mailto:vineetjaiswara@gmail.com)
-* 🚀  I'm currently working on [CogShre](https://github.com/vineetjaiss/CogShre)
+* 🚀  I'm currently working on [CogShre](https://github.com/vineetjaiss/Probnet)
 * 🧠  I'm learning MLOps
 * 🤝  I'm open to collaborating on Interesting projects.
 * ⚡  Changing 0 to 1
