@@ -1,5 +1,9 @@
 <div align="center">
 
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+<br/>
+
 # 🙏 Namaste — I'm Vineet Jaiswara
 
 #### `Full Stack Developer` &nbsp;·&nbsp; `AI/ML Engineer` &nbsp;·&nbsp; `Open Source Contributor` &nbsp;·&nbsp; `BTech CSE (AIML)`
@@ -13,10 +17,6 @@
 <a href="https://github.com/vineetjaiss/Probnet">
   <img src="https://img.shields.io/badge/🚀_BUILDING-PROBNET-FF6B6B?style=for-the-badge"/>
 </a>
-
-<br/><br/>
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 </div>
 
@@ -60,15 +60,14 @@ class VineetJaiswara:
 
 ## `$ cat ai_ml_journey.log`
 
-<div align="center">
-<img width="50%" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
-</div>
-
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="middle" width="40%" align="center">
 
-### 🧠 Neural Territory
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+
+</td>
+<td valign="top" width="60%">
 
 ```
 📦 Machine Learning
@@ -90,9 +89,12 @@ class VineetJaiswara:
 ```
 
 </td>
-<td valign="top" width="50%">
+</tr>
+</table>
 
-### 🚀 Status Board
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```
 🔭  Probnet
@@ -112,6 +114,11 @@ class VineetJaiswara:
 ```
 
 </td>
+<td valign="middle" width="40%" align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"/>
+
+</td>
 </tr>
 </table>
 
@@ -119,6 +126,12 @@ class VineetJaiswara:
 
 ## `$ ls -la skills/`
 
+<table>
+<tr>
+<td valign="middle" width="30%" align="center">
+<img width="95%" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4428-8146-3f0f071e28b9.gif"/>
+</td>
+<td valign="middle" width="70%">
 <div align="center">
 
 **🗣️ &nbsp; LANGUAGES**
@@ -149,7 +162,12 @@ class VineetJaiswara:
 &nbsp;
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-<br/><br/>
+</div>
+</td>
+</tr>
+<tr>
+<td valign="middle" width="70%" colspan="1">
+<div align="center">
 
 **🌐 &nbsp; FULL STACK**
 
@@ -178,47 +196,80 @@ class VineetJaiswara:
 <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,jupyter&theme=dark"/>
 
 </div>
+</td>
+<td valign="middle" width="30%" align="center">
+<img width="95%" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## `$ git log --oneline`
 
+<table>
+<tr>
+<td valign="middle" width="65%">
 <div align="center">
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=vineetjaiss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&border_radius=10"/>
-&nbsp;&nbsp;
+&nbsp;
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetjaiss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&border_radius=10"/>
 
-<br/><br/>
+</div>
+</td>
+<td valign="middle" width="35%" align="center">
+<img width="95%" src="https://user-images.githubusercontent.com/74038190/212280805-9bcbe603-2578-4677-bd8b-f4b13fa92248.gif"/>
+</td>
+</tr>
+</table>
 
+<div align="center">
 <img width="65%" src="https://streak-stats.demolab.com/?user=vineetjaiss&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=888888&border_radius=10"/>
-
 </div>
 
 ---
 
 ## `$ achievement --unlock-all`
 
+<table>
+<tr>
+<td valign="middle" width="25%" align="center">
+<img width="95%" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif"/>
+</td>
+<td valign="middle" width="75%">
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=vineetjaiss&theme=radical&no-frame=false&no-bg=true&margin-w=8&column=4"/>
-
 </div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## `$ git graph --contributions`
 
-<div align="center">
-
+<table>
+<tr>
+<td valign="middle" width="75%">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vineetjaiss&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FF6B6B&area=true&hide_border=true"/>
-
-</div>
+</td>
+<td valign="middle" width="25%" align="center">
+<img width="95%" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## `$ ./competitive.sh`
 
+<table>
+<tr>
+<td valign="middle" width="35%" align="center">
+<img width="95%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+</td>
+<td valign="middle" width="65%">
 <div align="center">
 
 <br/>
@@ -237,15 +288,24 @@ class VineetJaiswara:
 
 <br/><br/>
 
-<img width="50%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+```
+🏆  Competitive Coding Grind
+    ├── LeetCode   —  Daily Problem Solver
+    ├── CodeChef   —  Rating Climber 📈
+    ├── Codeforces —  Div. Destroyer 💥
+    └── CodeWars   —  Kata Slayer 🔥
+```
+
+<br/>
 
 </div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## `$ ps aux | grep vineet`
-
-<div align="center">
 
 <table>
 <tr>
@@ -272,12 +332,16 @@ currently_running:
 </tr>
 </table>
 
-</div>
-
 ---
 
 ## `$ ssh connect@vineetjaiswara`
 
+<table>
+<tr>
+<td valign="middle" width="35%" align="center">
+<img width="95%" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>
+</td>
+<td valign="middle" width="65%">
 <div align="center">
 
 <br/>
@@ -293,7 +357,9 @@ currently_running:
 <a href="http://www.instagram.com/the.vinjai">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
+
+<br/><br/>
+
 <a href="https://vinjai.hashnode.dev">
   <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>
@@ -306,16 +372,21 @@ currently_running:
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
+
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
-<br/>
 
 ### `⚡ Changing 0 to 1 — one commit at a time ⚡`
 
 *Made with 🧠 + ❤️ + way too much ☕*
-
-<br/>
 
 </div>
