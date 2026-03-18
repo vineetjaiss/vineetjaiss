@@ -4,8 +4,6 @@
 
 #### `Full Stack Developer` · `AI/ML Engineer` · `Open Source Contributor` · `BTech CSE (AIML)`
 
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=vineetjaiss&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/vineetjaiss?label=FOLLOWERS&style=for-the-badge&color=blueviolet"/>
@@ -38,6 +36,8 @@ class VineetJaiswara:
     contact    = "vineetjaiswara@gmail.com"
 ```
 
+> *"Any sufficiently advanced AI is indistinguishable from magic."*
+
 <br clear="right"/>
 
 ---
@@ -47,8 +47,6 @@ class VineetJaiswara:
 <div align="center">
 <img width="55%" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 </div>
-
-<br/>
 
 <table>
 <tr>
@@ -69,7 +67,7 @@ class VineetJaiswara:
   ├── 🔁  Transformers & Attention
   └── 💬  NLP & Text Pipelines
 
-⚙️ MLOps  [CURRENTLY LOADING...]
+⚙️ MLOps  [CURRENTLY LOADING... ▓▓▓▓▓░░░]
   ├── 🐳  Dockerizing Models
   ├── 🔄  CI/CD for ML
   └── 📊  Model Monitoring
@@ -86,7 +84,7 @@ class VineetJaiswara:
     └── Domain  ·  AI / ML
     └── github.com/vineetjaiss/Probnet
 
-🎯  Goals
+🎯  2025 Goals
     └── ✅  Master MLOps Pipelines
     └── ✅  Ship Production AI Apps
     └── 🔄  Major OSS Contribution
@@ -107,13 +105,9 @@ class VineetJaiswara:
 
 <div align="center">
 
-<br/>
-
 **🗣️ LANGUAGES**
 
 <img src="https://skillicons.dev/icons?i=python,cpp,javascript,java&theme=dark"/>
-
-<br/><br/>
 
 **🤖 AI · ML · DATA**
 
@@ -126,13 +120,9 @@ class VineetJaiswara:
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-<br/><br/>
-
 **🌐 FULL STACK**
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,django,html,css,firebase&theme=dark"/>
-
-<br/><br/>
 
 **⛓️ WEB3 & BLOCKCHAIN**
 
@@ -141,13 +131,9 @@ class VineetJaiswara:
 <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white"/>
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
 
-<br/><br/>
-
 **⚙️ TOOLS & DEVOPS**
 
 <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,jupyter&theme=dark"/>
-
-<br/>
 
 </div>
 
@@ -159,8 +145,6 @@ class VineetJaiswara:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vineetjaiss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&border_radius=10"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetjaiss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&border_radius=10"/>
-
-<br/>
 
 <img width="68%" src="https://streak-stats.demolab.com/?user=vineetjaiss&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=888888&border_radius=10"/>
 
@@ -188,8 +172,6 @@ class VineetJaiswara:
 
 <div align="center">
 
-<br/>
-
 <a href="https://leetcode.com/VinJaiSwix">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
@@ -201,11 +183,68 @@ class VineetJaiswara:
 <a href="https://codeforces.com/profile/VinJaiss">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
-&nbsp;
-
-<br/><br/>
 
 <img width="55%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+
+</div>
+
+---
+
+## 😂 Dev Life in Memes
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img width="100%" src="https://i.imgflip.com/65efzo.gif"/>
+<br/><sub><b>Me explaining ML to non-tech friends</b></sub>
+</td>
+<td align="center" width="33%">
+<img width="100%" src="https://i.imgflip.com/7tn9vb.gif"/>
+<br/><sub><b>Model accuracy: 99% on training data</b></sub>
+</td>
+<td align="center" width="33%">
+<img width="100%" src="https://i.imgflip.com/6lf58s.gif"/>
+<br/><sub><b>Me after git push at 3am</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
+<br/><sub><b>Training the neural net</b></sub>
+</td>
+<td align="center" width="33%">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4428-8146-3f0f071e28b9.gif"/>
+<br/><sub><b>Debugging at midnight</b></sub>
+</td>
+<td align="center" width="33%">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212280805-9bcbe603-2578-4677-bd8b-f4b13fa92248.gif"/>
+<br/><sub><b>When the model finally converges</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎧 Vibe Check
+
+<div align="center">
+
+<img align="left" width="48%" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"/>
+
+### What I'm always doing:
+
+⚽ &nbsp; **Playing football** on weekends  
+♟️ &nbsp; **Chess** — always calculating 5 moves ahead  
+🤖 &nbsp; **Reading AI papers** (yes, for fun)  
+🎵 &nbsp; **Coding with lofi** in the background  
+☕ &nbsp; **Coffee → Code → Repeat**  
+🌙 &nbsp; **Best commits happen after midnight**  
+
+<br clear="left"/>
 
 </div>
 
@@ -214,10 +253,6 @@ class VineetJaiswara:
 ## `$ ssh connect@vineetjaiswara`
 
 <div align="center">
-
-<img width="40%" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>
-
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/vineetjaiswara">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -247,12 +282,14 @@ class VineetJaiswara:
 
 ---
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
 <div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 ### `⚡ Changing 0 to 1 — one commit at a time ⚡`
 
 *Made with 🧠 + ❤️ + way too much ☕*
+
+![snake gif](https://raw.githubusercontent.com/vineetjaiss/vineetjaiss/output/github-snake-dark.svg)
 
 </div>
