@@ -20,3 +20,25 @@ status: "Training Neural Networks & Myself"
 current_focus: ["Machine Learning", "Deep Learning", "MLOps"]
 mission: "Build AI that actually impacts the world"
 motto: "0 → 1 ⚡"
+
+# AI CORE
+class VineetAI:
+
+    def __init__(self):
+        self.brain = "Machine Learning"
+        self.goal = "Artificial Intelligence Domination 🌍"
+        self.state = "Always Learning"
+
+    def build(self):
+        return [
+            "AI Systems 🤖",
+            "Scalable Apps ⚡",
+            "Real World Solutions 🌍"
+        ]
+
+    def evolve(self):
+        while True:
+            learn()
+            build()
+            fail()
+            improve()
