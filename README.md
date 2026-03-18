@@ -2,48 +2,35 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-<br/>
-
 # 🙏 Namaste — I'm Vineet Jaiswara
 
-#### `Full Stack Developer` &nbsp;·&nbsp; `AI/ML Engineer` &nbsp;·&nbsp; `Open Source Contributor` &nbsp;·&nbsp; `BTech CSE (AIML)`
+### `Full Stack Developer` · `AI/ML Engineer` · `Open Source Contributor` · `BTech CSE (AIML)`
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=vineetjaiss&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/vineetjaiss?label=FOLLOWERS&style=for-the-badge&color=blueviolet"/>
-&nbsp;&nbsp;
-<a href="https://github.com/vineetjaiss/Probnet">
-  <img src="https://img.shields.io/badge/🚀_BUILDING-PROBNET-FF6B6B?style=for-the-badge"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=vineetjaiss&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/vineetjaiss?label=FOLLOWERS&style=for-the-badge&color=0e75b6"/>
+&nbsp;
+<a href="https://github.com/vineetjaiss/Probnet"><img src="https://img.shields.io/badge/CURRENT%20PROJECT-PROBNET-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white"/></a>
 
 </div>
 
 ---
 
-## `$ whoami`
+## 👨‍💻 About Me
 
 <table>
 <tr>
 <td valign="middle" width="60%">
 
-```python
-class VineetJaiswara:
-
-    name       = "Vineet Jaiswara"
-    location   = "India 🇮🇳"
-    education  = "BTech CSE (AIML)"
-    role       = ["AI/ML Engineer", "Full Stack Dev",
-                  "Open Source Contributor"]
-    building   = "Probnet 🚀"
-    learning   = "MLOps ⚙️"
-    passions   = ["Competitive Coding", "Open Source",
-                  "Pushing commits at 3am"]
-    collab     = True   # always open!
-    motto      = "⚡ Changing 0 to 1"
-    contact    = "vineetjaiswara@gmail.com"
-```
+- 🎓 &nbsp; BTech in **CSE (AI & ML)**
+- 🧠 &nbsp; Passionate about **Artificial Intelligence & Machine Learning**
+- 🚀 &nbsp; Currently building **[Probnet](https://github.com/vineetjaiss/Probnet)**
+- 📖 &nbsp; Currently learning **MLOps**
+- 🤝 &nbsp; Open to collaborating on **interesting projects**
+- ⚡ &nbsp; Philosophy: **Changing 0 to 1**
+- 📬 &nbsp; **vineetjaiswara@gmail.com**
 
 > *"Any sufficiently advanced AI is indistinguishable from magic."*
 
@@ -58,65 +45,51 @@ class VineetJaiswara:
 
 ---
 
-## `$ cat ai_ml_journey.log`
+## 🤖 AI / ML Journey
 
 <table>
 <tr>
-<td valign="middle" width="40%" align="center">
+<td valign="middle" width="35%" align="center">
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 </td>
-<td valign="top" width="60%">
+<td valign="top" width="32%">
 
 ```
 📦 Machine Learning
   ├── 🌲 Tree-based Models
-  ├── 📈 Regression & Classification
+  ├── 📈 Regression &
+  │       Classification
   ├── 🧩 Clustering
   └── 🤖 Ensemble Methods
 
 🔬 Deep Learning
-  ├── 🖼️  CNNs — Computer Vision
-  ├── 📝  RNNs / LSTMs — Sequences
-  ├── 🔁  Transformers & Attention
-  └── 💬  NLP & Text Pipelines
-
-⚙️ MLOps  [LOADING ▓▓▓▓▓░░░ 62%]
-  ├── 🐳  Dockerizing Models
-  ├── 🔄  CI/CD for ML
-  └── 📊  Model Monitoring
+  ├── 🖼️  CNNs
+  ├── 📝  RNNs / LSTMs
+  ├── 🔁  Transformers
+  └── 💬  NLP Pipelines
 ```
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td valign="top" width="60%">
+<td valign="top" width="33%">
 
 ```
-🔭  Probnet
-    └── Status : ACTIVE 🟢
-    └── Domain : AI / ML
-    └── github.com/vineetjaiss/Probnet
+⚙️ MLOps [▓▓▓▓▓░░░ 62%]
+  ├── 🐳 Dockerizing
+  ├── 🔄 CI/CD for ML
+  └── 📊 Monitoring
 
-🎯  2025 Goals
-    └── ✅  Master MLOps Pipelines
-    └── ✅  Ship Production AI Apps
-    └── 🔄  Major OSS Contribution
-    └── 🔄  Research Paper 📄
-    └── 🔄  1000+ LeetCode Problems
+🔭 Probnet — ACTIVE 🟢
+   └── github.com/
+       vineetjaiss/Probnet
 
-📡  Open to
-    └── Collabs · Internships · OSS
+🎯 2025
+  ├── ✅ MLOps Pipelines
+  ├── ✅ Prod AI Apps
+  ├── 🔄 OSS Contrib
+  └── 🔄 Research 📄
 ```
-
-</td>
-<td valign="middle" width="40%" align="center">
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"/>
 
 </td>
 </tr>
@@ -124,257 +97,247 @@ class VineetJaiswara:
 
 ---
 
-## `$ ls -la skills/`
+## 🛠️ Tech Stack
 
 <table>
 <tr>
-<td valign="middle" width="30%" align="center">
-<img width="95%" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4428-8146-3f0f071e28b9.gif"/>
+<td valign="middle" width="20%" align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4428-8146-3f0f071e28b9.gif"/>
+<br/><sub><b>Debugging at 3am 🌙</b></sub>
+
 </td>
-<td valign="middle" width="70%">
-<div align="center">
+<td valign="middle" width="60%" align="center">
 
-**🗣️ &nbsp; LANGUAGES**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,java&theme=dark"/>
-
-<br/><br/>
-
-**🤖 &nbsp; AI · ML · DATA**
+**🗣️ Languages**
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40"/></a>
+&nbsp;
+<a href="https://docs.microsoft.com/en-us/cpp/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40"/></a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40"/></a>
+&nbsp;
+<a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40"/></a>
 
 <br/><br/>
 
+**🤖 AI · ML · Data**
+
+<br/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-&nbsp;
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
 &nbsp;
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-</div>
-</td>
-</tr>
-<tr>
-<td valign="middle" width="70%" colspan="1">
-<div align="center">
-
-**🌐 &nbsp; FULL STACK**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,django,html,css,firebase&theme=dark"/>
-
 <br/><br/>
 
-**⛓️ &nbsp; WEB3 & BLOCKCHAIN**
+**🌐 Full Stack**
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=ethereum&theme=dark"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white"/>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+<a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40"/></a>
+&nbsp;
+<a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="40" height="40"/></a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40"/></a>
+&nbsp;
+<a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40"/></a>
+&nbsp;
+<a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40"/></a>
 
 <br/><br/>
 
-**⚙️ &nbsp; TOOLS & DEVOPS**
+**⛓️ Web3 & Blockchain**
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,jupyter&theme=dark"/>
+<a href="https://ethereum.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="40" height="40"/></a>
+&nbsp;
+<a href="https://polygon.technology/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="40" height="40"/></a>
+&nbsp;
+<a href="https://web3js.readthedocs.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="40" height="40"/></a>
 
-</div>
+<br/><br/>
+
+**⚙️ Tools & DevOps**
+
+<br/>
+
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
 </td>
-<td valign="middle" width="30%" align="center">
-<img width="95%" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
+<td valign="middle" width="20%" align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212280805-9bcbe603-2578-4677-bd8b-f4b13fa92248.gif"/>
+<br/><sub><b>When it finally works 🔥</b></sub>
+
 </td>
 </tr>
 </table>
 
 ---
 
-## `$ git log --oneline`
+## 📊 GitHub Stats
 
 <table>
 <tr>
-<td valign="middle" width="65%">
-<div align="center">
+<td valign="middle" width="65%" align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=vineetjaiss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&border_radius=10"/>
-&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetjaiss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&border_radius=10"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=vineetjaiss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&border_radius=10"/>
 
-</div>
+<br/>
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=vineetjaiss&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=888888&border_radius=10"/>
+
 </td>
 <td valign="middle" width="35%" align="center">
-<img width="95%" src="https://user-images.githubusercontent.com/74038190/212280805-9bcbe603-2578-4677-bd8b-f4b13fa92248.gif"/>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetjaiss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&border_radius=10"/>
+
+<br/><br/>
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif"/>
+<br/><sub><b>99% train, 40% test 😭</b></sub>
+
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img width="65%" src="https://streak-stats.demolab.com/?user=vineetjaiss&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=888888&border_radius=10"/>
-</div>
-
 ---
 
-## `$ achievement --unlock-all`
+## 🏆 Trophies
 
 <table>
 <tr>
 <td valign="middle" width="25%" align="center">
-<img width="95%" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif"/>
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"/>
+<br/><sub><b>Explaining AI to friends 💀</b></sub>
+
 </td>
-<td valign="middle" width="75%">
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vineetjaiss&theme=radical&no-frame=false&no-bg=true&margin-w=8&column=4"/>
-</div>
+<td valign="middle" width="75%" align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=vineetjaiss&theme=radical&no-frame=false&no-bg=true&margin-w=8&column=4"/>
+
 </td>
 </tr>
 </table>
 
 ---
 
-## `$ git graph --contributions`
+## 📈 Contribution Graph
 
-<table>
-<tr>
-<td valign="middle" width="75%">
+<div align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vineetjaiss&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FF6B6B&area=true&hide_border=true"/>
-</td>
-<td valign="middle" width="25%" align="center">
-<img width="95%" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"/>
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## `$ ./competitive.sh`
+## ⚔️ Competitive Coding
 
 <table>
 <tr>
-<td valign="middle" width="35%" align="center">
-<img width="95%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+<td valign="middle" width="30%" align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+<br/><sub><b>Submitting at contest end 💥</b></sub>
+
 </td>
-<td valign="middle" width="65%">
-<div align="center">
+<td valign="middle" width="70%" align="center">
 
 <br/>
 
-<a href="https://leetcode.com/VinJaiSwix">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/vinjai">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/VinJaiss">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
+<a href="https://leetcode.com/VinJaiSwix"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+&nbsp;
+<a href="https://www.codechef.com/users/vinjai"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+&nbsp;
+<a href="https://codeforces.com/profile/VinJaiss"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.codewars.com/users/vinjai"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/></a>
 
 <br/><br/>
 
 ```
-🏆  Competitive Coding Grind
-    ├── LeetCode   —  Daily Problem Solver
-    ├── CodeChef   —  Rating Climber 📈
-    ├── Codeforces —  Div. Destroyer 💥
-    └── CodeWars   —  Kata Slayer 🔥
+🏆  Competitive Grind
+    ├── LeetCode    →  Daily problems 💪
+    ├── CodeChef    →  Rating climber 📈
+    ├── Codeforces  →  Div. Destroyer 💥
+    └── CodeWars    →  Kata Slayer 🔥
 ```
 
 <br/>
 
-</div>
 </td>
 </tr>
 </table>
 
 ---
 
-## `$ ps aux | grep vineet`
+## 🌐 Let's Connect
 
 <table>
 <tr>
-<td valign="middle" width="25%" align="center">
-<img width="90%" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"/>
-</td>
-<td valign="middle" width="50%" align="center">
+<td valign="middle" width="30%" align="center">
 
-```yaml
-currently_running:
-  🚀  building  : Probnet (AI/ML)
-  📖  learning  : MLOps — in progress
-  🤝  open_to   : Collabs · Internships · OSS
-  🤖  reading   : AI papers (yes, for fun)
-  🎵  vibe      : Lofi + Code = flow state
-  ☕  fuel      : Coffee → Code → Repeat
-  🌙  fact      : Best commits after midnight
-```
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>
 
 </td>
-<td valign="middle" width="25%" align="center">
-<img width="90%" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4428-8146-3f0f071e28b9.gif"/>
-</td>
-</tr>
-</table>
-
----
-
-## `$ ssh connect@vineetjaiswara`
-
-<table>
-<tr>
-<td valign="middle" width="35%" align="center">
-<img width="95%" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>
-</td>
-<td valign="middle" width="65%">
-<div align="center">
+<td valign="middle" width="70%" align="center">
 
 <br/>
 
-<a href="https://www.linkedin.com/in/vineetjaiswara">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.twitter.com/lonevinjai">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="http://www.instagram.com/the.vinjai">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/vineetjaiswara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.twitter.com/lonevinjai"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+&nbsp;
+<a href="http://www.instagram.com/the.vinjai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/><br/>
 
-<a href="https://vinjai.hashnode.dev">
-  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://discord.com/users/VinJai#8812">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:vineetjaiswara@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://vinjai.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+&nbsp;
+<a href="https://discord.com/users/VinJai#8812"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:vineetjaiswara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+```
+╔══════════════════════════════════════════════════════╗
+║  🤝 OPEN TO: Collabs | Internships | OSS             ║
+║  📬 REACH:   vineetjaiswara@gmail.com                ║
+║  ⚡ CODE:    if (problem) { vineet.solve(); }         ║
+╚══════════════════════════════════════════════════════╝
+```
 
 <br/>
 
-</div>
 </td>
 </tr>
 </table>
@@ -385,7 +348,7 @@ currently_running:
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-### `⚡ Changing 0 to 1 — one commit at a time ⚡`
+### ⚡ Changing 0 to 1 — one commit at a time ⚡
 
 *Made with 🧠 + ❤️ + way too much ☕*
 
