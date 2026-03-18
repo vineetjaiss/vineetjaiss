@@ -38,7 +38,7 @@ class VineetJaiswara:
                   "Open Source Contributor"]
     building   = "Probnet 🚀"
     learning   = "MLOps ⚙️"
-    passions   = ["Football ⚽", "Chess ♟️",
+    passions   = ["Competitive Coding", "Open Source",
                   "Pushing commits at 3am"]
     collab     = True   # always open!
     motto      = "⚡ Changing 0 to 1"
@@ -63,8 +63,6 @@ class VineetJaiswara:
 <div align="center">
 <img width="50%" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 </div>
-
-<br/>
 
 <table>
 <tr>
@@ -123,8 +121,6 @@ class VineetJaiswara:
 
 <div align="center">
 
-<br/>
-
 **🗣️ &nbsp; LANGUAGES**
 
 <br/>
@@ -180,8 +176,6 @@ class VineetJaiswara:
 <br/>
 
 <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,jupyter&theme=dark"/>
-
-<br/>
 
 </div>
 
@@ -245,8 +239,6 @@ class VineetJaiswara:
 
 <img width="50%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
-<br/>
-
 </div>
 
 ---
@@ -276,21 +268,6 @@ currently_running:
 </td>
 <td valign="middle" width="25%" align="center">
 <img width="90%" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4428-8146-3f0f071e28b9.gif"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img width="75%" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-3a0e-4f3e-b28a-f2b6de79d05c.gif"/>
-<br/><br/><b>⚽ &nbsp; Football on weekends</b>
-</td>
-<td align="center" width="50%">
-<img width="75%" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
-<br/><br/><b>♟️ &nbsp; Chess — always 5 moves ahead</b>
 </td>
 </tr>
 </table>
