@@ -4,6 +4,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/-AI%20%26%20ML%20Engineer-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/-Security%20Researcher-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
 <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/-BTech%20CSE%20(AIML)-0D1117?style=for-the-badge&logo=google-scholar&logoColor=4285F4"/>
 <img src="https://img.shields.io/badge/-Open%20Source-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
@@ -18,10 +19,9 @@
 <a href="mailto:vineetjaiswara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p>
 <img src="https://komarev.com/ghpvc/?username=vineetjaiss&label=Profile+Views&color=0e75b6&style=flat-square"/>
+&nbsp;
 <img src="https://img.shields.io/github/followers/vineetjaiss?label=Followers&style=flat-square&color=blueviolet"/>
-</p>
 
 </div>
 
@@ -34,7 +34,8 @@
 ### 🧑‍💻 About Me
 
 - 🎓 &nbsp; Pursuing **BTech in CSE (AI & ML)**
-- 🤖 &nbsp; Building intelligent systems with **AI & ML**
+- 🤖 &nbsp; Building & researching **Artificial Intelligence & ML**
+- 🔐 &nbsp; Diving into **Security Research** — CTFs, vulns & exploits
 - 🚀 &nbsp; Currently shipping **[Probnet](https://github.com/vineetjaiss/Probnet)**
 - 📦 &nbsp; Learning **MLOps** — because models need to ship
 - 🤝 &nbsp; Open to **collabs, internships & OSS**
@@ -50,13 +51,15 @@
 ```yaml
 status    : actively building 🟢
 project   : Probnet (AI/ML)
-learning  : MLOps
+learning  : MLOps + Security Research
 open_to   : collabs · internships · OSS
-goal_2025 :
+
+goals_2026:
   - ✅ Ship production AI apps
   - ✅ Master MLOps
+  - 🔄 CTF competitions & writeups
   - 🔄 Major OSS contribution
-  - 🔄 Research paper
+  - 🔄 Research paper 📄
   - 🔄 1000+ LeetCode problems
 ```
 
@@ -66,7 +69,7 @@ goal_2025 :
 
 ---
 
-### 🧠 AI & ML Stack
+### 🧠 AI & ML
 
 <div align="center">
 
@@ -83,7 +86,22 @@ goal_2025 :
 
 ---
 
-### 🛠️ Languages & Tools
+### 🔐 Security Research
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/CTF%20Player-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/OSINT-FF0000?style=for-the-badge&logo=protondb&logoColor=white"/>
+
+</div>
+
+---
+
+### 🛠️ Languages & Full Stack
 
 <div align="center">
 
@@ -176,7 +194,7 @@ goal_2025 :
 
 <div align="center">
 
-<i>"I think in algorithms, debug like a detective, and ship like the deadline is tomorrow."</i>
+<i>"I think in algorithms, debug like a detective, and ship like the deadline was yesterday."</i>
 
 <br/><br/>
 
