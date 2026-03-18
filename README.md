@@ -21,12 +21,11 @@ current_focus: ["Machine Learning", "Deep Learning", "MLOps"]
 mission: "Build AI that actually impacts the world"
 motto: "0 → 1 ⚡"
 
-# AI CORE
 class VineetAI:
 
     def __init__(self):
         self.brain = "Machine Learning"
-        self.goal = "Artificial Intelligence Domination 🌍"
+        self.goal = "Build Intelligent Systems 🌍"
         self.state = "Always Learning"
 
     def build(self):
