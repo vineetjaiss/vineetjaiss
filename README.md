@@ -195,13 +195,6 @@ goals_2026:
 
 </div>
 
----
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vineetjaiss&theme=radical&no-frame=false&no-bg=true&margin-w=8&column=4"/>
-</div>
 
 ---
 
