@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/-Security%20Researcher-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
 <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/-BTech%20CSE%20(AIML)-0D1117?style=for-the-badge&logo=google-scholar&logoColor=4285F4"/>
-<img src="https://img.shields.io/badge/-Open%20Source-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p>
@@ -19,9 +18,11 @@
 <a href="mailto:vineetjaiswara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<p>
 <img src="https://komarev.com/ghpvc/?username=vineetjaiss&label=Profile+Views&color=0e75b6&style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/vineetjaiss?label=Followers&style=flat-square&color=blueviolet"/>
+</p>
 
 </div>
 
@@ -29,13 +30,13 @@
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="middle" width="55%">
 
 ### 🧑‍💻 About Me
 
 - 🎓 &nbsp; Pursuing **BTech in CSE (AI & ML)**
-- 🤖 &nbsp; Building & researching **Artificial Intelligence & ML**
-- 🔐 &nbsp; Diving into **Security Research** — CTFs, vulns & exploits
+- 🤖 &nbsp; Building intelligent systems with **AI & ML**
+- 🔐 &nbsp; Exploring **AI Security & Adversarial ML**
 - 🚀 &nbsp; Currently shipping **[Probnet](https://github.com/vineetjaiss/Probnet)**
 - 📦 &nbsp; Learning **MLOps** — because models need to ship
 - 🤝 &nbsp; Open to **collabs, internships & OSS**
@@ -44,23 +45,59 @@
 - 📬 &nbsp; `vineetjaiswara@gmail.com`
 
 </td>
-<td valign="top" width="45%">
+<td valign="middle" width="45%" align="center">
+
+<!-- Anime GIF 1: Coding anime character — placed in about section for personality -->
+<img width="90%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### 🚀 Current Status
 
 ```yaml
 status    : actively building 🟢
 project   : Probnet (AI/ML)
-learning  : MLOps + Security Research
+learning  : MLOps + AI Security
 open_to   : collabs · internships · OSS
 
 goals_2026:
   - ✅ Ship production AI apps
-  - ✅ Master MLOps
-  - 🔄 CTF competitions & writeups
+  - ✅ Master MLOps pipelines
+  - 🔄 Publish AI security research
   - 🔄 Major OSS contribution
   - 🔄 Research paper 📄
   - 🔄 1000+ LeetCode problems
+  - 🔄 CTF competitions 🚩
+```
+
+</td>
+<td valign="top" width="50%">
+
+### 🔐 AI Security Research
+
+```
+🛡️ Adversarial Machine Learning
+  ├── 💥 Adversarial Attacks (FGSM, PGD)
+  ├── 🛡️ Model Robustness & Defense
+  └── 🔍 Backdoor & Poisoning Attacks
+
+🔎 AI Model Security
+  ├── 🧠 Model Inversion Attacks
+  ├── 🔓 Membership Inference
+  └── 📦 Prompt Injection (LLMs)
+
+🌐 Application Security
+  ├── 🕸️ Web Vulnerabilities
+  ├── 🐛 Bug Bounty Hunting
+  └── 🚩 CTF Competitions
 ```
 
 </td>
@@ -69,7 +106,7 @@ goals_2026:
 
 ---
 
-### 🧠 AI & ML
+### 🧠 AI & ML Stack
 
 <div align="center">
 
@@ -86,16 +123,16 @@ goals_2026:
 
 ---
 
-### 🔐 Security Research
+### 🔐 Security Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/CTF%20Player-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-<img src="https://img.shields.io/badge/OSINT-FF0000?style=for-the-badge&logo=protondb&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 
 </div>
 
@@ -192,12 +229,26 @@ goals_2026:
 
 ---
 
+<table>
+<tr>
+<td valign="middle" width="65%">
+
 <div align="center">
 
-<i>"I think in algorithms, debug like a detective, and ship like the deadline was yesterday."</i>
+*"I think in algorithms, debug like a detective, and secure what I build."*
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/Made%20with-Passion%20%2B%20Coffee-%23FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡%20Changing%200%20to%201-one%20commit%20at%20a%20time-00F5FF?style=for-the-badge"/>
 
 </div>
+
+</td>
+<td valign="middle" width="35%" align="center">
+
+<!-- Anime GIF 2: Hacker/terminal anime — placed at footer for the security research context -->
+<img width="90%" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
+
+</td>
+</tr>
+</table>
