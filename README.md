@@ -8,7 +8,8 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=VINEET%20JAISWARA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1a1a2e,60:16213e,100:0f3460&height=180&section=header&text=VINEET%20JAISWARA&fontSize=42&fontColor=00F5FF&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=55&descSize=18&descColor=ffffff"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🧠+Teaching+Machines+to+Think;⚡+Turning+0s+into+1s+since+Day+1;🤖+Building+the+Future+with+AI%2FML;🚀+BTech+CSE(AIML)+%7C+Open+Source+Warrior;♟️+Chess+%7C+⚽+Football+%7C+💻+Code" alt="Typing SVG" />
@@ -298,7 +299,7 @@ me.say_hello()
 ---
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Keep%20Learning.%20Keep%20Building.&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0D1117&height=120&section=footer&text=Keep%20Learning.%20Keep%20Building.&fontSize=24&fontColor=00F5FF&animation=fadeIn&fontAlignY=65"/>
 
 <div align="center">
 <sub>⚡ <b>Changing 0 to 1 — one commit at a time.</b> ⚡</sub>
