@@ -12,9 +12,7 @@
 
 <br/>
 
-<h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=70&lines=VINEET+JAISWARA" alt="Name" />
-</h1>
+<h1></h1>
 <h3>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=Full+Stack+Developer+%7C+AI+%26+ML+Engineer" alt="Title" />
 </h3>
