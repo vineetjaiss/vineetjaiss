@@ -35,12 +35,12 @@
 ### 🧑‍💻 About Me
 
 - 🎓 &nbsp; Pursuing **BTech in CSE (AI & ML)**
-- 🤖 &nbsp; Building intelligent systems with **AI & ML**
-- 🔐 &nbsp; Exploring **AI Security & Adversarial ML**
+- 🤖 &nbsp; Building Intelligent Systems
+- 🔐 &nbsp; Exploring **AI Security, Adversarial ML & Quant Finance**
 - 🚀 &nbsp; Currently shipping **[Probnet](https://github.com/vineetjaiss/Probnet)**
 - 📦 &nbsp; Learning **MLOps** — because models need to ship
 - 🤝 &nbsp; Open to **collabs, internships & OSS**
-- ♟️ &nbsp; I code like I play chess — always thinking 5 moves ahead
+- ♟️ &nbsp; I play Football & Chess 
 - ⚡ &nbsp; **Changing 0 to 1**, one commit at a time
 - 📬 &nbsp; `vineetjaiswara@gmail.com`
 
