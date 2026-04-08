@@ -95,8 +95,6 @@ Application Security    →  Web Vulns · Bug Bounty · CTF
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vineetjaiss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&border_radius=8"/>
-&nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetjaiss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&border_radius=8"/>
 
 <br/><br/>
@@ -106,22 +104,6 @@ Application Security    →  Web Vulns · Bug Bounty · CTF
 </div>
 
 ---
-
-## ⚔️ Competitive Coding
-
-<a href="https://leetcode.com/VinJaiSwix"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-&nbsp;
-<a href="https://codeforces.com/profile/VinJaiss"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.codechef.com/users/vinjai"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.codewars.com/users/vinjai"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white"/></a>
-
----
-
-<div align="center">
-
-*"I think in algorithms, debug like a detective, and secure what I build."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F5FF,100:0D1117&height=80&section=footer"/>
 
