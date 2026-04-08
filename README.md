@@ -95,9 +95,6 @@ Application Security    →  Web Vulns · Bug Bounty · CTF
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetjaiss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&border_radius=8"/>
-
-<br/><br/>
 
 <img width="55%" src="https://streak-stats.demolab.com/?user=vineetjaiss&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=888888&border_radius=8"/>
 
